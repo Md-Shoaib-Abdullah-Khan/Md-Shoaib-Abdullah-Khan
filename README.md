@@ -17,13 +17,17 @@ My journey in Artificial Intelligence drives my curiosity, focusing on machine l
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-shoaib-abdullah-khan" alt="md-shoaib-abdullah-khan" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shoaib-abdullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-shoaib-abdullah-khan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-shoaib-abdullah-khan" alt="md-shoaib-abdullah-khan" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shoaib-khan-5475031aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shoaib-khan-5475031aa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22467103/shoaib-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22467103/shoaib-khan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/22467103/shoaib-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22467103/shoaib-khan" height="30" width="40" /></a>
 <a href="https://kaggle.com/mdshoaibabdullahkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdshoaibabdullahkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/s.h.o.a.i.b_a_k.h.a.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.h.o.a.i.b_a_k.h.a.n" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@md.shoaibabdullahkhan4060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@md.shoaibabdullahkhan4060" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@md.shoaibabdullahkhan4060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@md.shoaibabdullahkhan4060" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sk_03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sk_03" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shoaib_khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shoaib_khan" height="30" width="40" /></a>
 <a href="/https://shoaib3.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://shoaib3.netlify.app/" height="30" width="40" /></a>
