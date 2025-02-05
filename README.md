@@ -6,7 +6,7 @@ Currently I am pursuing my undergraduate degree in Computer Science and Engineer
 
 My journey in Artificial Intelligence drives my curiosity, focusing on machine learning and deep learning research. I am a problem solver in the world of competitive programming. Besides, I am dedicated to harnessing AI's potential to positively impact society. My interests extend into Deep learning, Natural Language Processing (NLP) and Generative AI, where I aim to innovate and create meaningful applications
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently performing research on Bioinformatics
 - 🌱 I’m currently learning Deep learning, Computer Vision, Application of LLM, Generative AI 
 - 📫 How to reach me: mdshoaib.a.khan@gmail.com 
 
