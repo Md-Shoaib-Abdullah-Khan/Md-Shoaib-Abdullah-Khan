@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Shoaib
-![I'm a AI Researcher, Specializing in Deep Learning, Computer Vision, LLM and Data Science Enthusiast!] (https://www.linkedin.com/in/shoaib-khan-5475031aa/overlay/background-image/)
+![I'm a AI Researcher, Specializing in Deep Learning, Computer Vision, LLM and Data Science Enthusiast!]([https://www.linkedin.com/in/shoaib-khan-5475031aa/overlay/background-image/](https://media.licdn.com/dms/image/v2/D5616AQFxoBLnBL0eLQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723107231320?e=1744243200&v=beta&t=pHgWkpRGv580OMMl35ZWhTySxNeHAACnHJ80OJf-jQk))
 
 Currently I am pursuing my undergraduate degree in Computer Science and Engineering at the University of Rajshahi, Bangladesh. I am very much passionate about technology,
 
