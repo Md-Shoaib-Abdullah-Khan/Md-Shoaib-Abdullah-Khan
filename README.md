@@ -16,9 +16,6 @@ My journey in Artificial Intelligence drives my curiosity, focusing on machine l
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-shoaib-abdullah-khan" alt="md-shoaib-abdullah-khan" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shoaib-abdullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="md-shoaib-abdullah-khan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-shoaib-abdullah-khan" alt="md-shoaib-abdullah-khan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
