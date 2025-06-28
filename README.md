@@ -36,7 +36,7 @@ My journey in Artificial Intelligence drives my curiosity, focusing on machine l
 
 <p align="center">
   <figure>
-    <img src="https://github.com/Md-Shoaib-Abdullah-Khan/Md-Shoaib-Abdullah-Khan/main/Team Codatron.jpg" height="450" />
+    <img src="https://github.com/Md-Shoaib-Abdullah-Khan/Md-Shoaib-Abdullah-Khan/blob/main/Team%20Codatron.jpg" height="450" />
     <figcaption align="center"><strong>Second Runner-Up</strong> – WebXtreme Hackathon 2025 🎉</figcaption>
   </figure>
 </p>
