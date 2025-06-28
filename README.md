@@ -42,9 +42,10 @@ My journey in Artificial Intelligence drives my curiosity, focusing on machine l
   </figure>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-shoaib-abdullah-khan&show_icons=true&locale=en&layout=compact" alt="md-shoaib-abdullah-khan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-shoaib-abdullah-khan&show_icons=true&locale=en&layout=compact&theme=tokyonight&title_color=bb86fc&text_color=ffffff&icon_color=bb86fc" alt="md-shoaib-abdullah-khan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-shoaib-abdullah-khan&show_icons=true&locale=en" alt="md-shoaib-abdullah-khan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-shoaib-abdullah-khan&show_icons=true&locale=en&theme=tokyonight&title_color=bb86fc&text_color=ffffff&icon_color=bb86fc" alt="md-shoaib-abdullah-khan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shoaib-abdullah-khan&" alt="md-shoaib-abdullah-khan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shoaib-abdullah-khan&theme=tokyonight&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" alt="md-shoaib-abdullah-khan" /></p>
+
 
