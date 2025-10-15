@@ -9,7 +9,7 @@ My journey in Artificial Intelligence drives my curiosity, focusing on machine l
 - 🔭 I’m currently performing research on Bioinformatics
 - 🌱 I’m currently learning Deep learning, NLP, LLM, Generative AI 
 - 📫 How to reach me: mdshoaib.a.khan@gmail.com 
-- 📄 [View My Resume](https://drive.google.com/file/d/1u4fZUHdU9lrAu9-xFVYLt7gDOkZpDTOH/view?usp=sharing)
+- 📄 [View My Resume](https://drive.google.com/file/d/1UbHM9a5eAQ4Wmw8Ggv_GkOpeld0hqlfz/view?usp=sharing)
 
 
 
